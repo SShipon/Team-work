@@ -1,9 +1,9 @@
-
+import ServiceCom from "../components/home/Service";
 
 const Service = () => {
     return (
         <div>
-             <h1>service jsx</h1>
+            <ServiceCom />
         </div>
     );
 };
