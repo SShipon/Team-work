@@ -1,9 +1,10 @@
 
 
+
 const Home = () => {
     return (
-        <div>
-             Home jsx file
+        <div className="my-20">
+             <p>start your home pages </p>
         </div>
     );
 };
